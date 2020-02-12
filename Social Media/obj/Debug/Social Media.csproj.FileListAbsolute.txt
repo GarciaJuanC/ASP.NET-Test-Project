@@ -76,3 +76,7 @@ C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\obj\Debug\Soci
 C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\obj\Debug\Social Media.csproj.CopyComplete
 C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\obj\Debug\Social Media.dll
 C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\obj\Debug\Social Media.pdb
+C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\bin\EntityFramework.dll
+C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\bin\EntityFramework.SqlServer.dll
+C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\bin\EntityFramework.xml
+C:\Users\juang\Documents\GitHub\ASP.NET-Test-Project\Social Media\bin\EntityFramework.SqlServer.xml
